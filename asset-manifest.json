@@ -1,16 +1,15 @@
 {
   "files": {
     "main.css": "/itchio/static/css/main.9f3eb1be.chunk.css",
-    "main.js": "/itchio/static/js/main.7ca72a41.chunk.js",
-    "main.js.map": "/itchio/static/js/main.7ca72a41.chunk.js.map",
+    "main.js": "/itchio/static/js/main.3e817c87.chunk.js",
+    "main.js.map": "/itchio/static/js/main.3e817c87.chunk.js.map",
     "runtime~main.js": "/itchio/static/js/runtime~main.75fd9d36.js",
     "runtime~main.js.map": "/itchio/static/js/runtime~main.75fd9d36.js.map",
-    "static/js/2.b41502e9.chunk.js": "/itchio/static/js/2.b41502e9.chunk.js",
-    "static/js/2.b41502e9.chunk.js.map": "/itchio/static/js/2.b41502e9.chunk.js.map",
+    "static/js/2.48f73d83.chunk.js": "/itchio/static/js/2.48f73d83.chunk.js",
+    "static/js/2.48f73d83.chunk.js.map": "/itchio/static/js/2.48f73d83.chunk.js.map",
     "index.html": "/itchio/index.html",
-    "precache-manifest.6318d0f115a07db5444e7a5675720de3.js": "/itchio/precache-manifest.6318d0f115a07db5444e7a5675720de3.js",
+    "precache-manifest.027bcca0651736a758ae1974ccf8845b.js": "/itchio/precache-manifest.027bcca0651736a758ae1974ccf8845b.js",
     "service-worker.js": "/itchio/service-worker.js",
-    "static/css/main.9f3eb1be.chunk.css.map": "/itchio/static/css/main.9f3eb1be.chunk.css.map",
-    "static/media/logo.svg": "/itchio/static/media/logo.5d5d9eef.svg"
+    "static/css/main.9f3eb1be.chunk.css.map": "/itchio/static/css/main.9f3eb1be.chunk.css.map"
   }
 }
